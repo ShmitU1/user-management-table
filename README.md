@@ -4,7 +4,7 @@ My project is a simple user list management application where you can filter the
 
 ### Links
 
-- Live Site URL: -------
+- Live Site URL: https://shmitu1.github.io/user-management-table/
 
 ## My process
 
